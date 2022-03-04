@@ -20,5 +20,7 @@ The initial pattern constitutes the seed of the system. The first generation is 
 
 # Usage
 Make sure you already have pyglet installed on your system.
-Run the main.py file
+
+Run the main.py file.
+
 It is pretty easy to modify the play area of the rules of the game so that it suits your needs.
