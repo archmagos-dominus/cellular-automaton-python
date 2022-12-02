@@ -1,5 +1,5 @@
 # cellular-automaton-python
-A much more customizable 2D cellular automata which is also more pleasing to the eye. This time, built in Python.
+A Python variant of my bash-based celular automaton, allowing for a 2D game area of any size between 3->500 cells.GUI is provided using tkinter package.
 # Description
 The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves. It is Turing complete and can simulate a universal constructor or any other Turing machine. 
 
