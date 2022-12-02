@@ -19,8 +19,8 @@ These rules, which compare the behavior of the automaton to real life, can be co
 The initial pattern constitutes the seed of the system. The first generation is created by applying the above rules simultaneously to every cell in the seed; births and deaths occur simultaneously, and the discrete moment at which this happens is sometimes called a tick. Each generation is a pure function of the preceding one. The rules continue to be applied repeatedly to create further generations. 
 
 # Usage
-Make sure you already have pyglet installed on your system.
+This version uses tkinter as its GUI, so make sure you have that installed on your system.
 
-Run the main.py file.
+In order to start the app, simply run the `main.py` file. Select the grid size (in this case the grid is always a square) and click the `Initialization` button, followed by the `Next Step` button.
 
-It is pretty easy to modify the play area of the rules of the game so that it suits your needs.
+
